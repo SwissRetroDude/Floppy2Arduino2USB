@@ -7,7 +7,7 @@ The original idea for the project, which is the basis of this PCB, is by Rob Smi
 
 The original idea for the hardware design as well as the software that is needed to use the hardware are all copyright by Rob Smith. Any licences that he has attached to his project / ideas / software apply! Please visit his website for mor information before using this files (https://amiga.robsmithdev.co.uk/).
 
-Many thanks to Rob Smith for the creation of this awful project!
+Many thanks to Rob Smith for the creation of this awesome project!
 
 The license I included with the gerbers on this repository only apply to my special implementation of the project.
 
